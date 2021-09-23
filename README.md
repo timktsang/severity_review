@@ -6,3 +6,5 @@ program_rcpp.zip is the code for simulation without age component, program_rcpp_
 for each code, we can use the create_write.r file to generate the folder for simulation with different assumptions on incubation and infectiousness period.
 
 meta-analysis.R is the code for the meta-analysis in the paper
+
+number_of_undetected.R is the code for the estimation of undetected index cases.
